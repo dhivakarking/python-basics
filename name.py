@@ -1,0 +1,6 @@
+print('details')
+print('please enter your name:')
+name=input()
+print('please enteryour age:')
+age=input()
+print('thank you')
